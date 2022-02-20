@@ -56,4 +56,4 @@ playerMove.forEach(move => move.addEventListener('click', function () {
         playerMove.forEach(move => move.disabled = true);
         retry.style.display = 'block'
     }
-}));
+}));git 
